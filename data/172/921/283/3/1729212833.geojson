@@ -94,11 +94,11 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1600013697,
+    "wof:lastmodified":1600985261,
     "wof:name":"CA7241 (IAD-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

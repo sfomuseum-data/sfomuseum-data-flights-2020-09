@@ -88,11 +88,11 @@
         1159284583,
         1477881721
     ],
-    "wof:lastmodified":1600532032,
+    "wof:lastmodified":1600985248,
     "wof:name":"B6482 (SFO-EWR)",
     "wof:parent_id":1477881721,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

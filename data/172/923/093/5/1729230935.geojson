@@ -88,11 +88,11 @@
         1159284261,
         1477930335
     ],
-    "wof:lastmodified":1600532028,
+    "wof:lastmodified":1600985246,
     "wof:name":"DL2038 (SLC-SFO)",
     "wof:parent_id":1477930335,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

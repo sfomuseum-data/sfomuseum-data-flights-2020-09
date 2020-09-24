@@ -88,11 +88,11 @@
         1159283813,
         1477930341
     ],
-    "wof:lastmodified":1599063560,
+    "wof:lastmodified":1600985315,
     "wof:name":"AS2670 (PDX-SFO)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

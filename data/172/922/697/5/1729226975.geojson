@@ -94,11 +94,11 @@
         1477930357,
         1159283813
     ],
-    "wof:lastmodified":1600359175,
+    "wof:lastmodified":1600985360,
     "wof:name":"AY2505 (SFO-PDX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

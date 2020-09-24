@@ -94,11 +94,11 @@
         1477930427,
         1159285413
     ],
-    "wof:lastmodified":1600445632,
+    "wof:lastmodified":1600985362,
     "wof:name":"LH8886 (SFO-FAT)",
     "wof:parent_id":1477930427,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -94,11 +94,11 @@
         1477930361,
         1159284261
     ],
-    "wof:lastmodified":1599149859,
+    "wof:lastmodified":1600985324,
     "wof:name":"VS4543 (SFO-SLC)",
     "wof:parent_id":1477930361,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159285413,
         1477930409
     ],
-    "wof:lastmodified":1599408909,
+    "wof:lastmodified":1600985384,
     "wof:name":"UA353 (SFO-BWI)",
     "wof:parent_id":1477930409,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

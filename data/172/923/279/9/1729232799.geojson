@@ -88,11 +88,11 @@
         1159285413,
         1477930393
     ],
-    "wof:lastmodified":1600532033,
+    "wof:lastmodified":1600985247,
     "wof:name":"UA5351 (SFO-YVR)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

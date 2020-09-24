@@ -94,11 +94,11 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1600964091,
+    "wof:lastmodified":1600985301,
     "wof:name":"QF3737 (SLC-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-09",
+    "wof:repo":"sfomuseum-data-flights-2020-09",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
