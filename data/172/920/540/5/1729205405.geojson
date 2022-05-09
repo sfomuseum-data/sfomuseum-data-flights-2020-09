@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1599688800,
     "flysfo:timestamp": 1599692400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,123.483002,41.639801",
+    "geom:latitude": 39.6288955,
+    "geom:longitude": 0.5560295000000011,
     "iata:airline": "CZ",
     "icao:airline": "CSN",
     "iso:country": "US",
@@ -28,7 +28,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159284165,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102550897,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20200909-D-CSN-3004",
     "sfomuseum:flight_number": [
@@ -54,7 +54,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1599754321,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "35b730df29cf47cc0738a78c2847685d",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -90,7 +90,7 @@
       1159284165,
       1477930303
     ],
-    "wof:lastmodified": 1651268084,
+    "wof:lastmodified": 1652124069,
     "wof:name": "CZ3004 (SFO-SHE)",
     "wof:parent_id": 1477930303,
     "wof:placetype": "event",
@@ -101,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
-    37.61799
+    37.61799,
+    123.483002,
+    41.639801
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[123.483002,41.639801]],"type":"MultiPoint"}
 }
