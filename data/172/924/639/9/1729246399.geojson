@@ -104,10 +104,13 @@
       1477930391,
       1159289871
     ],
-    "wof:lastmodified": 1653352677,
+    "wof:lastmodified": 1717031494,
     "wof:name": "UA445 (SFO-CLE)",
     "wof:parent_id": 1729792561,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],

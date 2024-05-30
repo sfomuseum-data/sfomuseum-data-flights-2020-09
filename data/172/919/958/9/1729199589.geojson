@@ -90,10 +90,13 @@
       1159283697,
       1477930467
     ],
-    "wof:lastmodified": 1653352637,
+    "wof:lastmodified": 1717031496,
     "wof:name": "NZ1007 (SFO-AKL)",
     "wof:parent_id": 1729792655,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],

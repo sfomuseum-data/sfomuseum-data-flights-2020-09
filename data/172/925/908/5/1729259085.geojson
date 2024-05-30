@@ -99,10 +99,13 @@
       1477930321,
       1528104583
     ],
-    "wof:lastmodified": 1653352689,
+    "wof:lastmodified": 1717031496,
     "wof:name": "DL1818 (SLC-SFO)",
     "wof:parent_id": 1729792463,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -2,6 +2,10 @@
   "id": 1729259817,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-09-28",
+    "date:cessation_upper": "2020-09-28",
+    "date:inception_lower": "2020-09-28",
+    "date:inception_upper": "2020-09-28",
     "edtf:cessation": "2020-09-28T21:38:09Z",
     "edtf:inception": "2020-09-28T16:22:00Z",
     "flysfo:actual_timestamp": 1601334000,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20200928-D-AAL-700",
     "sfomuseum:flight_number": [
-      "AAL700", 
+      "AAL700",
       "AA700"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N575UW",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1601395723,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729259817
+      }
+    ],
     "wof:id": 1729259817,
     "wof:involves": [
-      102529403, 
-      102527513, 
-      1159283849, 
-      -1, 
+      102529403,
+      102527513,
+      1159283849,
+      -1,
       1159289411
     ],
-    "wof:lastmodified": 1601396158,
+    "wof:lastmodified": 1717031496,
     "wof:name": "AA700 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

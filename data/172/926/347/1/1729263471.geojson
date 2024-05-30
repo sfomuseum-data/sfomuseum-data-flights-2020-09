@@ -2,6 +2,10 @@
   "id": 1729263471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-09-29",
+    "date:cessation_upper": "2020-09-29",
+    "date:inception_lower": "2020-09-29",
+    "date:inception_upper": "2020-09-29",
     "edtf:cessation": "2020-09-29T20:00:00Z",
     "edtf:inception": "2020-09-29T17:52:00Z",
     "flysfo:actual_timestamp": 1601420400,
@@ -32,14 +36,14 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20200929-D-UAL-2724",
     "sfomuseum:flight_number": [
-      "UAL2724", 
+      "UAL2724",
       "UA2724"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
-      "swim-path", 
+      "swim-route",
+      "swim-path",
       "swim-takeoff"
     ],
     "swim:tail_number": "N787UA",
@@ -52,28 +56,35 @@
     "wof:country": "US",
     "wof:created": 1601482383,
     "wof:geomhash": "b40be45e404b6672d17874a2b6d6d5a4",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729263471
+      }
+    ],
     "wof:id": 1729263471,
     "wof:involves": [
-      102530535, 
-      102527513, 
-      1159285413, 
-      -1, 
+      102530535,
+      102527513,
+      1159285413,
+      -1,
       1159289985
     ],
-    "wof:lastmodified": 1601482482,
+    "wof:lastmodified": 1717031492,
     "wof:name": "UA2724 (SFO-ROW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    33.311119, 
-    -104.517073, 
+    -122.370943,
+    33.311119,
+    -104.517073,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.517073,33.311119]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1729258421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-09-28",
+    "date:cessation_upper": "2020-09-28",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
     "edtf:cessation": "2020-09-28T16:13:04-07:00",
     "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1601334000,
@@ -32,7 +36,7 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20200928-A-AAL-2421",
     "sfomuseum:flight_number": [
-      "AAL2421", 
+      "AAL2421",
       "AA2421"
     ],
     "sfomuseum:placetype": "flight",
@@ -46,28 +50,35 @@
     "wof:country": "US",
     "wof:created": 1601395297,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729258421
+      }
+    ],
     "wof:id": 1729258421,
     "wof:involves": [
-      102527513, 
-      102531023, 
-      1159283849, 
-      -1, 
+      102527513,
+      102531023,
+      1159283849,
+      -1,
       1159289871
     ],
-    "wof:lastmodified": 1601396151,
+    "wof:lastmodified": 1717031495,
     "wof:name": "AA2421 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

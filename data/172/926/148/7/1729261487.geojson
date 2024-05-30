@@ -2,6 +2,10 @@
   "id": 1729261487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-09-30",
+    "date:cessation_upper": "2020-09-30",
+    "date:inception_lower": "2020-09-29",
+    "date:inception_upper": "2020-09-29",
     "edtf:cessation": "2020-09-30T14:05:13Z",
     "edtf:inception": "2020-09-29T22:10:00Z",
     "flysfo:actual_timestamp": 1601420400,
@@ -32,13 +36,13 @@
     "sfomuseum:departure_id": 102555641,
     "sfomuseum:flight_id": "20200929-A-AIC-173",
     "sfomuseum:flight_number": [
-      "AIC173", 
+      "AIC173",
       "AI173"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
-      "swim-route", 
+      "swim-route",
       "swim-path"
     ],
     "wof:belongsto": [],
@@ -49,28 +53,35 @@
     "wof:country": "US",
     "wof:created": 1601481773,
     "wof:geomhash": "71cdaf51a648b6adc1eef8af56a4c6ba",
-    "wof:hierarchy": [],
+    "wof:hierarchy": [
+      {
+        "event_id": 1729261487
+      }
+    ],
     "wof:id": 1729261487,
     "wof:involves": [
-      102527513, 
-      102555641, 
-      1159283649, 
-      -1, 
+      102527513,
+      102555641,
+      1159283649,
+      -1,
       1159289989
     ],
-    "wof:lastmodified": 1601482473,
+    "wof:lastmodified": 1717031490,
     "wof:name": "AI173 (BLR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-09",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.370943, 
-    13.199658, 
-    77.708067, 
+    -122.370943,
+    13.199658,
+    77.708067,
     37.61799
   ],
   "geometry": {"coordinates":[[77.708067,13.199658],[-122.370943,37.61799]],"type":"MultiPoint"}
